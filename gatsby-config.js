@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `FORTALTOOSLS DISTRIBUIDORA`,
+    title: `FORTALTOOLS DISTRIBUIDORA`,
     siteUrl: `https://jamm.matter.design`,
   },
   plugins: [
